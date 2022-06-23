@@ -1,0 +1,62 @@
+{
+    "name": "gatsby-starter-default",
+    "private": true,
+    "description": "A simple starter to get up and developing quickly with Gatsby",
+    "version": "0.1.0",
+    "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+    "dependencies": {
+        "@fortawesome/fontawesome-svg-core": "^6.1.1",
+        "@fortawesome/free-brands-svg-icons": "^6.1.1",
+        "@fortawesome/free-solid-svg-icons": "^6.1.1",
+        "@fortawesome/react-fontawesome": "^0.1.18",
+        "@react-three/drei": "^8.16.1",
+        "@react-three/fiber": "^7.0.26",
+        "@types/three": "^0.138.0",
+        "@u-wave/react-vimeo": "^0.9.8",
+        "babel-plugin-styled-components": "^2.0.6",
+        "font-awesome": "^4.7.0",
+        "gatsby": "^4.11.1",
+        "gatsby-plugin-gatsby-cloud": "^4.11.1",
+        "gatsby-plugin-google-fonts": "^1.0.1",
+        "gatsby-plugin-image": "^2.13.0",
+        "gatsby-plugin-manifest": "^4.11.1",
+        "gatsby-plugin-offline": "^5.11.1",
+        "gatsby-plugin-react-helmet": "^5.11.0",
+        "gatsby-plugin-sharp": "^4.11.1",
+        "gatsby-plugin-styled-components": "^5.11.0",
+        "gatsby-source-filesystem": "^4.11.1",
+        "gatsby-source-rest-api": "^0.2.3",
+        "gatsby-transformer-sharp": "^4.11.0",
+        "prop-types": "^15.8.1",
+        "react": "^17.0.1",
+        "react-dom": "^17.0.1",
+        "react-helmet": "^6.1.0",
+        "react-phone-input-2": "^2.15.0",
+        "styled-components": "^5.3.5",
+        "styled-reset": "^4.3.4",
+        "three": "^0.139.2"
+    },
+    "devDependencies": {
+        "prettier": "^2.6.1"
+    },
+    "keywords": [
+        "gatsby"
+    ],
+    "license": "0BSD",
+    "scripts": {
+        "build": "gatsby build",
+        "develop": "gatsby develop",
+        "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
+        "start": "gatsby develop",
+        "serve": "gatsby serve",
+        "clean": "gatsby clean",
+        "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    },
+    "bugs": {
+        "url": "https://github.com/gatsbyjs/gatsby/issues"
+    }
+}
