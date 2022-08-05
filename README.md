@@ -15,7 +15,7 @@
 
 ---
 
-This App was built for Serenity 3D, a company that would be part of the company Mad Viking Games.
+This App was built for Serenity 3D.
 
 It is not finished yet, but it's totally functional, and the reason for it is that the company had to postpone the Serenity Project indefinitely
 
