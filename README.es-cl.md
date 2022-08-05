@@ -8,7 +8,7 @@
 
 ---
 
-Esta App fué desarrollada para Serenity 3D, una compañía que sería parte de la compañía Mad Viking Games
+Esta App fué desarrollada para Serenity 3D
 
 No está terminada todavía, pero es totalmente funcional, y la razón de ellos es que la compañía tuvo que postponer el projecto Serenity indefinidamente.
 
